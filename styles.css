@@ -1,0 +1,26 @@
+.fondo { background-color: antiquewhite;
+} 
+
+.miTexto { font-size: 80px;
+    color: black;
+}
+
+
+.TituloPrinc { font-size: 120px;
+    color: rgb(241, 117, 117);
+}
+
+.Titulos2 { font-size: 90px;
+    color: rgb(255, 0, 0);
+}
+.fondoFooter { background-color: rgb(247, 31, 31);
+} 
+
+
+.tituloFooter { font-size: 90px;
+    color: darkgoldenrod;
+}
+
+.textoFooter { font-size: 50px;
+    color: aliceblue;
+}
